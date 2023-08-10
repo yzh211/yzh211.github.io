@@ -2,123 +2,239 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yichuanzhu.github.io.git/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/research/granular/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/opening/phd/</loc>
+    <lastmod>2023-08-09T16:42:26-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/research/risk/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/opening/undergraduate/</loc>
+    <lastmod>2023-08-09T16:42:26-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/research/compute_tools/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/research/uncertainty/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/computational-geosciences/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yichuanzhu.github.io.git/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/earthquakes/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/geohazard/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/granular-materials/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/landslides/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/machine-learning/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/strain-localization/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yichuanzhu.github.io.git/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yichuanzhu.github.io.git/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/uncertainty-quantificaiton/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yichuanzhu.github.io.git/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/bayesian-network/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://yichuanzhu.github.io.git/tag/negative-samples/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication_types/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/crawford_2022_landslide_risk/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/risk-assessment/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/3d-dic/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/soil-mechanics/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematic_statistics/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematics/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/kinematics/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/boundary-displacement/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2022_displacement_statistics/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/statistical-analysis/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2021_swath_tool/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/database/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2022_traxial_database/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/pyosp/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/landslide/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/susceptibility-mapping/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/crawford_2021_susceptibility_mapping/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/earthquake/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2021_site_response/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/site-responses/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication-type/7/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/dissertation/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/zhu_2019_dissertation/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/tag/uncertainty-quantification/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/news/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/news/news/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yichuanzhu.github.io.git/admin/</loc>
+    <lastmod>2022-04-24T03:20:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/news/newslist/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/team/students/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/post/</loc>
+    <lastmod>2023-08-09T11:42:46-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/opening/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/publication/</loc>
+    <lastmod>2023-08-09T00:04:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/post/pyosp_case_teton/</loc>
+    <lastmod>2023-08-09T16:42:26-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/post/pyosp_case_licking/</loc>
+    <lastmod>2023-08-09T16:42:26-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/post/pyosp_case_mars/</loc>
+    <lastmod>2023-08-09T16:42:26-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/research/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yichuanzhu.github.io.git/team/</loc>
+    <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

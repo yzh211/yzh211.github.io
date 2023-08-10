@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Geosciences | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/computational-geosciences/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/computational-geosciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Geosciences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Geosciences</title>
+      <link>https://yichuanzhu.github.io.git/tag/computational-geosciences/</link>
+    </image>
+    
+    <item>
+      <title>Computational Geosciences</title>
+      <link>https://yichuanzhu.github.io.git/research/compute_tools/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/research/compute_tools/</guid>
+      <description>&lt;p&gt;Remote sensing has emerged as a powerful technique for acquiring geotechnical and geological characteristics in a spatial-temporal manner. In CGG, we use satellite images, airborne LiDAR and related data to help solve scientific research problems related to geomorphologic change detection, geohazard assessment, site responses, and climate change topics. Our goal is to combine cutting-off sensing technology, geological/geotechnical information, and computational power to develop, test, and deliver robust solutions to geotechnical/geosciences communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An intelligent swath tool to characterize complex topographic features: theory and application in the teton range, licking river, and olympus mons</title>
+      <link>https://yichuanzhu.github.io.git/publication/zhu_2021_swath_tool/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/zhu_2021_swath_tool/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

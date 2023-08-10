@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncertainty Quantificaiton | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/uncertainty-quantificaiton/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/uncertainty-quantificaiton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uncertainty Quantificaiton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Uncertainty Quantificaiton</title>
+      <link>https://yichuanzhu.github.io.git/tag/uncertainty-quantificaiton/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
+      <link>https://yichuanzhu.github.io.git/research/uncertainty/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/research/uncertainty/</guid>
+      <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

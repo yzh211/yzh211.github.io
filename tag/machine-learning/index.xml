@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/machine-learning/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://yichuanzhu.github.io.git/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
+      <link>https://yichuanzhu.github.io.git/research/uncertainty/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/research/uncertainty/</guid>
+      <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using landslide-inventory mapping for a combined bagged-trees and logistic-regression approach to determining landslide susceptibility in eastern Kentucky, USA</title>
+      <link>https://yichuanzhu.github.io.git/publication/crawford_2021_susceptibility_mapping/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/crawford_2021_susceptibility_mapping/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

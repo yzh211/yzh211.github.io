@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/team/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/team/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Teams</title>
+      <link>https://yichuanzhu.github.io.git/team/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yichuanzhu.github.io.git/team/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/team/students/</guid>
+      <description>&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
+  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/sahand.jpg&#34; alt=&#34;Sahand&#34;  /&gt; 
+Sahand Khabiri, Fall 2019 to present
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Sahand Khabiri (he/his) is currently a PhD candidate studying at Temple University. He began his PhD program in geotechnical engineering in Fall 2019. His research interest area is using machine learning in natural hazard risk assessment. Sahand enjoys spending his free time playing volleyball and chess, hiking, and listening to podcasts.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h2&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
+  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
+  Alex C Miller, Spring 2023 to present 
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying for Bachelor of Science in Civil Engineering at Temple now. His hobbies include gaming and exercising. His favorite thing to do is go out in the city with his friends.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+&lt;tr&gt;
+&lt;td width=150&gt;
+&lt;img src=&#34;https://yichuanzhu.github.io.git/team/Emma.jpg&#34; alt=&#34;Emma&#34;/&gt; 
+Emma R Schreiner, Spring 2022 to present 
+&lt;/td&gt;
+&lt;td width=300&gt;
+Emma Schreiner (she/her) is currently an undergraduate student studying civil engineering at Temple University. After graduation, she will work in transportation engineering. She began undergraduate research with the geotechnical department in the spring of 2022 and is a member of Temple’s ASCE student chapter. Emma enjoys spending time outside, going to the beach, reading, and listening to music in her free time.
+&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
+&lt;img src=&#34;https://yichuanzhu.github.io.git/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
+Kate Kubiak, Spring 2022 to present 
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Kate Kubiak (she/her) is currently an undergraduate student at Temple University studying civil engineering with an environmental concentration. Following her graduation, she will return as a graduate student in the civil engineering master&#39;s program at Temple. She has been involved in undergraduate research with the geotechnical department since May 2021. She is the co-president of Temple&#39;s ASCE student chapter and is a tour guide for the College of Engineering. In her free time, Kate enjoys reading, going on walks with her dog, trying new foods, and spending time with friends.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

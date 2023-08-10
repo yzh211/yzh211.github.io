@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geohazard | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/geohazard/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/geohazard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geohazard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Geohazard</title>
+      <link>https://yichuanzhu.github.io.git/tag/geohazard/</link>
+    </image>
+    
+    <item>
+      <title>Risk Assessment and Management</title>
+      <link>https://yichuanzhu.github.io.git/research/risk/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/research/risk/</guid>
+      <description>&lt;p&gt;The streamline of engineering design evolved from Factor of Safety to Reliability Index, and about to the risk-informed design &amp;amp; management in the foreseeable future. In CGG, we focus on using datasets consisting of aerial photography, geology, soils, hydrologic information,  LiDAR (point clouds and DEMS), and infrastructure and residential information, to create machine learning models for geo-hazard analysis and test the probability of failure under different geologic and hydrologic conditions. The results will identify vulnerable areas and the potential impact on the built environment, all of which will be incorporated into mitigation strategies that represent a giant step forward in making community resilient.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping Fundamental‐Mode Site Periods and Amplifications from Thick Sediments: An Example from the Jackson Purchase Region of Western Kentucky, Central United States</title>
+      <link>https://yichuanzhu.github.io.git/publication/zhu_2021_site_response/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/zhu_2021_site_response/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

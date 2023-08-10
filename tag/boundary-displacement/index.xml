@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boundary Displacement | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/boundary-displacement/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/boundary-displacement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boundary Displacement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Boundary Displacement</title>
+      <link>https://yichuanzhu.github.io.git/tag/boundary-displacement/</link>
+    </image>
+    
+    <item>
+      <title>Spatio-Temporal Statistical Characterization of Boundary Kinematic Phenomena of Triaxial Sand Specimens</title>
+      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_displacement_statistics/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_displacement_statistics/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global and Local Deformation Effects of Dry Vacuum-Consolidated Triaxial Compression Tests on Sand Specimens: Making a Database Available for the Calibration and Development of Forward Models</title>
+      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_traxial_database/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_traxial_database/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1636 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: August 9, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.042e26407c9e383d96a1f26d6787c686.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Yichuan Zhu" />
+
+
+
+
+
+  
+
+<meta name="description" content="In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://yichuanzhu.github.io.git/post/pyosp_case_licking/" />
+<link rel="canonical" href="https://yichuanzhu.github.io.git/post/pyosp_case_licking/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu9333109b48113834010447dd98fd4d51_26249_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9333109b48113834010447dd98fd4d51_26249_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@@Yichuan_Zhu" />
+  <meta property="twitter:creator" content="@@Yichuan_Zhu" />
+<meta property="twitter:image" content="https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Computational Geosystems Group" />
+<meta property="og:url" content="https://yichuanzhu.github.io.git/post/pyosp_case_licking/" />
+<meta property="og:title" content="Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky | Computational Geosystems Group" />
+<meta property="og:description" content="In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis." /><meta property="og:image" content="https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+  
+    <meta property="article:modified_time" content="2023-08-09T16:42:26-04:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yichuanzhu.github.io.git/post/pyosp_case_licking/"
+  },
+  "headline": "Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "2023-08-09T16:42:26-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yichuan Zhu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Computational Geosystems Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky | Computational Geosystems Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="cc151c24c9e8b24a8abd27f6a926f9da" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.ec9d49ca50e4b80bdb08f0417a28ed84.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Computational Geosystems Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Computational Geosystems Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/news/newslist"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/team/students"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/post/"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/opening"><span>Openings</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+            
+            <li class="nav-item d-none d-lg-inline-flex">
+              <a class="nav-link" href="https://twitter.com/Yichuan_Zhu" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+                <i class="fab fa-twitter" aria-hidden="true"></i>
+              </a>
+            </li>
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Yichuan Zhu</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Aug 9, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis. The content introduced here corresponds to the section 4.2 of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860" target="_blank" rel="noopener">PyOSP paper</a>. The installation of PyOSP is introduced by the tutorial <a href="/post/pyosp_case_teton/">Topographic analysis of Teton Range, Wyoming</a>, which will not be repeated here.</p>
+<h2 id="tpi-based-swath-analysis">TPI based swath analysis</h2>
+<p>In this case study, we use TPI based swath method to characterize the Licking River. In the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860" target="_blank" rel="noopener">PyOSP paper</a> Figure 9, we present the differences between TPI based and elevation based methods for identifying the river valley. In general, PyOSP classification of the Licking River Valley was successful using both TPI and elevation (Fig. 9c). However, elevation would not be an ideal classification criterion in valley settings with higher gradients, including a longer reach of the Licking River. A TPI value of 0, on the other
+hand, will remain the approximate midpoint (inflection point) of the valley slopes along a river&rsquo;s entire length.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">pyosp</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">baseline</span> <span class="o">=</span> <span class="s1">&#39;./pyosp-case-studies/licking/baseline.shp&#39;</span>
+</span></span><span class="line"><span class="cl"><span class="n">raster</span> <span class="o">=</span> <span class="s1">&#39;./pyosp-case-studies/licking/licking_dem.tif&#39;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">tpi</span> <span class="o">=</span> <span class="n">pyosp</span><span class="o">.</span><span class="n">Tpi_curv</span><span class="p">(</span>
+</span></span><span class="line"><span class="cl">    <span class="n">baseline</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">raster</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">width</span><span class="o">=</span><span class="mi">10000</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tpi_radius</span><span class="o">=</span><span class="mi">5000</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">max_tpi</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">line_stepsize</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">cross_stepsize</span><span class="o">=</span><span class="mi">100</span>
+</span></span><span class="line"><span class="cl"><span class="p">)</span>
+</span></span></code></pre></div><pre><code>Processing: [#########################] 1123 of 1123 lineSteps
+</code></pre>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">tpi</span><span class="o">.</span><span class="n">profile_plot</span><span class="p">()</span>
+</span></span></code></pre></div><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./index_3_0.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="terrace-correlation">Terrace correlation</h2>
+<p>In this study, PyOSP post-processing capabilities were used to highlight the TPI based swath dataset in a way that accentuated terrace-tread signatures. To this end, the TPI swath area was categorized and filtered to incorporate only those elevation datapoints that also have a slope less than 5 degree, which were then used for a series of scatter-swath, cross-swath, and histogram analyses.</p>
+<h3 id="scatter-swath">Scatter-swath</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># swath data with slope less than 5 degree</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># see also: https://pyosp.readthedocs.io/en/latest/pyosp.curvsp.html#pyosp.curvsp.Base_curv.post_slope</span>
+</span></span><span class="line"><span class="cl"><span class="n">tpi_small</span> <span class="o">=</span> <span class="n">tpi</span><span class="o">.</span><span class="n">post_slope</span><span class="p">(</span><span class="n">max_val</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">distance</span> <span class="o">=</span> <span class="n">tpi_small</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">dat</span> <span class="o">=</span> <span class="n">tpi_small</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mf">7.25</span><span class="p">,</span> <span class="mf">2.5</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">ind</span><span class="p">,</span> <span class="n">d</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">distance</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">y</span> <span class="o">=</span> <span class="n">dat</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">repeat</span><span class="p">(</span><span class="n">d</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">y</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">s</span><span class="o">=</span><span class="mf">0.5</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;r&#39;</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">ax</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">&#34;Distance (ft)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">&#34;Elevation (ft)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">ax</span><span class="o">.</span><span class="n">set_xlim</span><span class="p">([</span><span class="nb">min</span><span class="p">(</span><span class="n">distance</span><span class="p">),</span> <span class="nb">max</span><span class="p">(</span><span class="n">distance</span><span class="p">)])</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># ax.set_ylim([450, 750])</span>
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+</span></span></code></pre></div><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./index_5_0.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>In the figure above, the dark red clusters correspond to terrace tread elevations as we identified in the field. Details are presented in Figure 10 of PyOSP paper.</p>
+<h3 id="cross-swath-profiles">Cross-swath profiles</h3>
+<p>Four cross-swath sections were selected to examine the topographic view of each area.</p>
+<p>As we mentioned in the Teton case study, there are two ways to define the boundary of cross swath profile:</p>
+<ol>
+<li>Specify the start and end points positions away from the starting point of baseline.</li>
+<li>Draw the points along the baseline, and then pass the shapefile of points to the function.</li>
+</ol>
+<p>In the documentation of PyOSP, there is a tutorial about application process of these two methods.</p>
+<p><a href="https://pyosp.readthedocs.io/en/latest/notebooks/cross_swath.html" target="_blank" rel="noopener">https://pyosp.readthedocs.io/en/latest/notebooks/cross_swath.html</a></p>
+<p>Here we choose the second method to define the cross-swath boundary, using the boundary points we drew on the baseline.</p>
+<img alt="conda_terminar" src="https://i.imgur.com/jx6z2Zi.png" height="150"/>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">pyosp.util</span> <span class="kn">import</span> <span class="n">point_coords</span><span class="p">,</span> <span class="n">grouped</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Read boundary coordinates</span>
+</span></span><span class="line"><span class="cl"><span class="n">bound</span> <span class="o">=</span> <span class="s1">&#39;./pyosp-case-studies/licking/BoundaryPoints.shp&#39;</span>
+</span></span><span class="line"><span class="cl"><span class="n">bound_coords</span> <span class="o">=</span> <span class="n">point_coords</span><span class="p">(</span><span class="n">bound</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># cross-post-processing</span>
+</span></span><span class="line"><span class="cl"><span class="n">colors</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;maroon&#39;</span><span class="p">,</span> <span class="s1">&#39;darkgreen&#39;</span><span class="p">,</span> <span class="s1">&#39;indigo&#39;</span><span class="p">,</span> <span class="s1">&#39;red&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">titles</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;cross_1&#39;</span><span class="p">,</span> <span class="s1">&#39;cross_2&#39;</span><span class="p">,</span>  <span class="s1">&#39;cross_3&#39;</span><span class="p">,</span> <span class="s1">&#39;cross_4&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">ind</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">sharex</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">7</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="o">.</span><span class="n">subplots_adjust</span><span class="p">(</span><span class="n">hspace</span><span class="o">=</span><span class="mf">0.2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">start</span><span class="p">,</span> <span class="n">end</span> <span class="ow">in</span> <span class="n">grouped</span><span class="p">(</span><span class="n">bound_coords</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tpi</span><span class="o">.</span><span class="n">post_slope</span><span class="p">(</span>
+</span></span><span class="line"><span class="cl">        <span class="n">max_val</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="n">start</span><span class="o">=</span><span class="n">start</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="n">end</span><span class="o">=</span><span class="n">end</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">        <span class="n">color</span><span class="o">=</span><span class="n">colors</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">        <span class="n">cross</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="n">swath_plot</span><span class="o">=</span><span class="kc">True</span>
+</span></span><span class="line"><span class="cl">    <span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="n">titles</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span> <span class="n">pad</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">&#34;&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">&#34;Elevation (feet)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">450</span><span class="p">,</span><span class="mi">700</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="n">ind</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="n">colors</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s1">&#39;Distance from the baseline (feet)&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="n">ind</span> <span class="o">+=</span> <span class="mi">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>  
+</span></span></code></pre></div><pre><code>C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:171: RuntimeWarning: All-NaN axis encountered
+  min_z = [np.nanmin(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:172: RuntimeWarning: All-NaN axis encountered
+  max_z = [np.nanmax(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:173: RuntimeWarning: Mean of empty slice
+  mean_z = [np.nanmean(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctions.py:1368: RuntimeWarning: All-NaN slice encountered
+  r, k = function_base._ureduce(
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:171: RuntimeWarning: All-NaN axis encountered
+  min_z = [np.nanmin(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:172: RuntimeWarning: All-NaN axis encountered
+  max_z = [np.nanmax(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:173: RuntimeWarning: Mean of empty slice
+  mean_z = [np.nanmean(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctions.py:1368: RuntimeWarning: All-NaN slice encountered
+  r, k = function_base._ureduce(
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:171: RuntimeWarning: All-NaN axis encountered
+  min_z = [np.nanmin(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:172: RuntimeWarning: All-NaN axis encountered
+  max_z = [np.nanmax(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:173: RuntimeWarning: Mean of empty slice
+  mean_z = [np.nanmean(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctions.py:1368: RuntimeWarning: All-NaN slice encountered
+  r, k = function_base._ureduce(
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:171: RuntimeWarning: All-NaN axis encountered
+  min_z = [np.nanmin(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:172: RuntimeWarning: All-NaN axis encountered
+  max_z = [np.nanmax(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\pyosp\curvsp\base_curv.py:173: RuntimeWarning: Mean of empty slice
+  mean_z = [np.nanmean(x) if len(x) &gt; 0 else np.nan for x in z]
+C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctions.py:1368: RuntimeWarning: All-NaN slice encountered
+  r, k = function_base._ureduce(
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./index_7_1.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="histogram-of-cross-swath-profile">Histogram of cross-swath profile</h3>
+<p>Last, we plot the histogram of captured cross-swath profile.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">ind</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">sharex</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">6</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="o">.</span><span class="n">subplots_adjust</span><span class="p">(</span><span class="n">hspace</span><span class="o">=</span><span class="mf">0.2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">start</span><span class="p">,</span> <span class="n">end</span> <span class="ow">in</span> <span class="n">grouped</span><span class="p">(</span><span class="n">bound_coords</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">dat</span> <span class="o">=</span> <span class="n">tpi</span><span class="o">.</span><span class="n">post_slope</span><span class="p">(</span><span class="n">max_val</span><span class="o">=</span><span class="mf">5.</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">start</span><span class="o">=</span><span class="n">start</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">end</span><span class="o">=</span><span class="n">end</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">color</span><span class="o">=</span><span class="n">colors</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">cross</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">                         <span class="n">swath_plot</span><span class="o">=</span><span class="kc">False</span>
+</span></span><span class="line"><span class="cl">                        <span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tpi</span><span class="o">.</span><span class="n">hist</span><span class="p">(</span><span class="n">dat</span><span class="o">=</span><span class="n">dat</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="n">titles</span><span class="p">[</span><span class="n">ind</span><span class="p">],</span> <span class="n">pad</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s2">&#34;&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s2">&#34;PDF&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="n">ind</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="n">colors</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">ax</span><span class="p">[</span><span class="n">ind</span><span class="p">]</span><span class="o">.</span><span class="n">set_xlabel</span><span class="p">(</span><span class="s1">&#39;Elevation (feet)&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="n">ind</span> <span class="o">+=</span> <span class="mi">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>  
+</span></span></code></pre></div><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="./index_9_0.png" alt="png" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Discussion of above results are presented in the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860" target="_blank" rel="noopener">PyOSP paper</a>.</p>
+<h2 id="summary">Summary</h2>
+<p>This tutorial introduces the swath analysis of Licking River by PyOSP, which corresponds to section 4.2 of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860" target="_blank" rel="noopener">PyOSP paper</a>. In the next tutorial, we will use PyOSP to perform circular swath analysis toward Olympus Mons, Mars.</p>
+<p>If you have any further questions, you can open an issue at <a href="https://github.com/PyOSP-devs/PyOSP" target="_blank" rel="noopener">https://github.com/PyOSP-devs/PyOSP</a>, or send email to yichuan.zhu[at]temple.edu</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F&amp;text=Reproducing&#43;PyOSP&#43;paper&#43;results&#43;%28Part&#43;2%29&#43;-&#43;terrace&#43;correlation&#43;along&#43;the&#43;Licking&#43;River%2C&#43;Kentucky" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F&amp;t=Reproducing&#43;PyOSP&#43;paper&#43;results&#43;%28Part&#43;2%29&#43;-&#43;terrace&#43;correlation&#43;along&#43;the&#43;Licking&#43;River%2C&#43;Kentucky" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Reproducing%20PyOSP%20paper%20results%20%28Part%202%29%20-%20terrace%20correlation%20along%20the%20Licking%20River%2C%20Kentucky&amp;body=https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F&amp;title=Reproducing&#43;PyOSP&#43;paper&#43;results&#43;%28Part&#43;2%29&#43;-&#43;terrace&#43;correlation&#43;along&#43;the&#43;Licking&#43;River%2C&#43;Kentucky" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Reproducing&#43;PyOSP&#43;paper&#43;results&#43;%28Part&#43;2%29&#43;-&#43;terrace&#43;correlation&#43;along&#43;the&#43;Licking&#43;River%2C&#43;Kentucky%20https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fyichuanzhu.github.io.git%2Fpost%2Fpyosp_case_licking%2F&amp;title=Reproducing&#43;PyOSP&#43;paper&#43;results&#43;%28Part&#43;2%29&#43;-&#43;terrace&#43;correlation&#43;along&#43;the&#43;Licking&#43;River%2C&#43;Kentucky" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://yichuanzhu.github.io.git"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hub97d029a5772d79e2c2582b17fd4ec54_192998_270x270_fill_q75_lanczos_center.jpg" alt="Yichuan Zhu"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://yichuanzhu.github.io.git">Yichuan Zhu</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      <p class="card-text">My research interests inlcude granular mechanics, remote sensing and applications, uncertainty quantification, and risk assessment and management.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/Yichuan_Zhu" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=EMea5zYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/yzh211" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/yichuan-zhu-4a193892/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Yichuan Zhu All Rights Reserved
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.f64289d8217e08e3afcd597d60836062.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.ead4a376bcf2c4714888c770ea9b0040.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

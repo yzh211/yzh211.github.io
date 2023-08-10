@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opennings | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/opening/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/opening/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opennings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Opennings</title>
+      <link>https://yichuanzhu.github.io.git/opening/</link>
+    </image>
+    
+    <item>
+      <title>PhD Students</title>
+      <link>https://yichuanzhu.github.io.git/opening/phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/opening/phd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Please refer to our &lt;a href=&#34;https://engineering.temple.edu/admissions/graduate-admissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graduate admission&lt;/a&gt; website about deadlines and requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We always look for motivates PhD students to join our group! The prospective PhD student will work closely with Dr. Zhu to explore topics in the intersection of computer science, geotechnical engineering, and geosciences. This would be an ideal position for someone is 1) experience in open-source project in the use of remote sensing data to support geologic/geotechnical research at a level appropriate for journal publication or 2) experience in laboratory or numerical experiments for the study of fundamental geomechanics.&lt;/p&gt;
+&lt;h2 id=&#34;qualification&#34;&gt;Qualification&lt;/h2&gt;
+&lt;h3 id=&#34;required&#34;&gt;Required&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A master degree in Civil Engineering, Geological Engineering, or closely related fields&lt;/li&gt;
+&lt;li&gt;Strong English oral and written communication skills&lt;/li&gt;
+&lt;li&gt;Coding experience (C/C++ or Python) and strong quantitative skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preferred&#34;&gt;Preferred&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in numerical modeling at micro or meso scales&lt;/li&gt;
+&lt;li&gt;Experience in uncertainty quantification&lt;/li&gt;
+&lt;li&gt;Experience in remote sensing and spatio-temporal analysis&lt;/li&gt;
+&lt;li&gt;Experience in Geo-risk assessment and management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;application-instruction&#34;&gt;Application instruction&lt;/h3&gt;
+&lt;p&gt;Send the following information to Dr. Zhu (yichuan.zhu[at]temple.edu):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume/CV&lt;/li&gt;
+&lt;li&gt;Transcripts&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Students</title>
+      <link>https://yichuanzhu.github.io.git/opening/undergraduate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/opening/undergraduate/</guid>
+      <description>&lt;p&gt;We have a strong record of working with undergraduate researchers. The working areas include building laboratory apparatus, pre/post-processing datasets, conducting tests at the remote site, etc. Undergraduate researchers are typically paid by hours a week.&lt;/p&gt;
+&lt;h2 id=&#34;qualification&#34;&gt;Qualification&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A strong desire to learn&lt;/li&gt;
+&lt;li&gt;Knowledge of fundamental mathematics&lt;/li&gt;
+&lt;li&gt;Strong oral and written communication skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;application-instruction&#34;&gt;Application instruction&lt;/h3&gt;
+&lt;p&gt;Send the following information to Dr. Zhu (yichuan.zhu[at]temple.edu):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume/CV&lt;/li&gt;
+&lt;li&gt;Research interests&lt;/li&gt;
+&lt;li&gt;Type of work you are seeking&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

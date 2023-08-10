@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Granular Materials | Computational Geosystems Group</title>
+    <link>https://yichuanzhu.github.io.git/tag/granular-materials/</link>
+      <atom:link href="https://yichuanzhu.github.io.git/tag/granular-materials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Granular Materials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Granular Materials</title>
+      <link>https://yichuanzhu.github.io.git/tag/granular-materials/</link>
+    </image>
+    
+    <item>
+      <title>Strain Localization in Sands</title>
+      <link>https://yichuanzhu.github.io.git/research/granular/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/research/granular/</guid>
+      <description>&lt;p&gt;Strain localization in sand is a ubiquitous process associated with non-homogeneous deformation occurred to materials when they are subjected to compressive or tensile stresses. In CGG, we use Digital Image Correlation and Micro Computed Tomography to study various banding phenomena, including shear, expansion, and compaction bands, as well as their evolution and interactions during the shearing of granular materials. We provide insights into the overall deformation modes and inherent uncertainties, as well as spatio-temporal correlation patterns of different banding phenomena undergoing three-dimensional stress conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

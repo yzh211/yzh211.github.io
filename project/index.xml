@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Computational Geosystems Group</title>
+    <title>Research | Computational Geosystems Group</title>
     <link>https://yichuanzhu.github.io.git/project/</link>
       <atom:link href="https://yichuanzhu.github.io.git/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <description>Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
+      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
       <link>https://yichuanzhu.github.io.git/project/</link>
     </image>
     
     <item>
+      <title>Strain Localization in Sands</title>
+      <link>https://yichuanzhu.github.io.git/project/granular/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/project/granular/</guid>
+      <description>&lt;p&gt;Strain localization in sand is a ubiquitous process associated with non-homogeneous deformation occurred to materials when they are subjected to compressive or tensile stresses. In CGG, we use Digital Image Correlation and Micro Computed Tomography to study various banding phenomena, including shear, expansion, and compaction bands, as well as their evolution and interactions during the shearing of granular materials. We provide insights into the overall deformation modes and inherent uncertainties, as well as spatio-temporal correlation patterns of different banding phenomena undergoing three-dimensional stress conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment and Management</title>
+      <link>https://yichuanzhu.github.io.git/project/risk/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/project/risk/</guid>
+      <description>&lt;p&gt;The streamline of engineering design evolved from Factor of Safety to Reliability Index, and about to the risk-informed design &amp;amp; management in the foreseeable future. In CGG, we focus on using datasets consisting of aerial photography, geology, soils, hydrologic information,  LiDAR (point clouds and DEMS), and infrastructure and residential information, to create machine learning models for geo-hazard analysis and test the probability of failure under different geologic and hydrologic conditions. The results will identify vulnerable areas and the potential impact on the built environment, all of which will be incorporated into mitigation strategies that represent a giant step forward in making community resilient.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Computational Geosciences</title>
-      <link>https://yichuanzhu.github.io.git/project/computer-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/computer-science/</guid>
+      <link>https://yichuanzhu.github.io.git/project/compute_tools/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/project/compute_tools/</guid>
       <description>&lt;p&gt;Remote sensing has emerged as a powerful technique for acquiring geotechnical and geological characteristics in a spatial-temporal manner. In CGG, we use satellite images, airborne LiDAR and related data to help solve scientific research problems related to geomorphologic change detection, geohazard assessment, site responses, and climate change topics. Our goal is to combine cutting-off sensing technology, geological/geotechnical information, and computational power to develop, test, and deliver robust solutions to geotechnical/geosciences communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
+      <link>https://yichuanzhu.github.io.git/project/uncertainty/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/project/uncertainty/</guid>
+      <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
 </description>
     </item>
     

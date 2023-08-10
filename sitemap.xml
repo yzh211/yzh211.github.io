@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yichuanzhu.github.io.git/research/granular/</loc>
+    <loc>https://yichuanzhu.github.io.git/project/granular/</loc>
     <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -10,7 +10,7 @@
     <lastmod>2023-08-09T16:42:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/research/risk/</loc>
+    <loc>https://yichuanzhu.github.io.git/project/risk/</loc>
     <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,11 +18,11 @@
     <lastmod>2023-08-09T16:42:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/research/compute_tools/</loc>
+    <loc>https://yichuanzhu.github.io.git/project/compute_tools/</loc>
     <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/research/uncertainty/</loc>
+    <loc>https://yichuanzhu.github.io.git/project/uncertainty/</loc>
     <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -229,7 +229,7 @@
     <lastmod>2023-08-09T16:42:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yichuanzhu.github.io.git/research/</loc>
+    <loc>https://yichuanzhu.github.io.git/project/</loc>
     <lastmod>2023-08-09T23:39:31-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

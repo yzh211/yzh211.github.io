@@ -14,9 +14,9 @@
     
     <item>
       <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
-      <link>https://yichuanzhu.github.io.git/research/uncertainty/</link>
+      <link>https://yichuanzhu.github.io.git/project/uncertainty/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/research/uncertainty/</guid>
+      <guid>https://yichuanzhu.github.io.git/project/uncertainty/</guid>
       <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
 </description>
     </item>

@@ -13,6 +13,33 @@
     </image>
     
     <item>
+      <title>Non-affine georectification to improve the topographic fidelity of legacy geologic maps</title>
+      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_georectification/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_georectification/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Assessment of Negative Samples and Model Structures in Landslide Susceptibility Characterization Based on Bayesian Network Models</title>
       <link>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>

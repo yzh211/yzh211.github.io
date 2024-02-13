@@ -446,7 +446,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://yichuanzhu.github.io.git/team/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yichuanzhu.github.io.git/team/students/</guid>
-      <description>&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;phd-students&#34;&gt;Ph.D. Students&lt;/h2&gt;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
@@ -521,21 +521,12 @@ David Kosiborod (ka-see-bar-ode) is pursuing a degree of Bachelor of Science in
     &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
-&lt;!-- ## Alumni
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=120 &gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/sahand_1.jpg&#34; alt=&#34;sahand&#34; /&gt; 
-  Sahand Khabiri &lt;br&gt;
-  PhD (2021-2024)
-    &lt;/td&gt;
-    &lt;td width=120 &gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Emma_1.jpg&#34; alt=&#34;Emma&#34; /&gt; 
-  Emma Schreiner &lt;br&gt;
-  BS (2022-2023)
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt; --&gt;</description>
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Sahand Khabiri&lt;/strong&gt;, Ph.D.(2021-2024). Dissertation: &lt;em&gt;Physics-informed Bayesian Network Classifiers in Landslide Susceptibility Assessment.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Emma Renee Schreiner&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;br&gt;
+&lt;strong&gt;Jacob R Fagan&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;/p&gt;
+</description>
     </item>
     
     <item>

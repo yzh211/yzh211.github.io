@@ -21,12 +21,25 @@
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
+  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
+  Xiong Bi&lt;br&gt;
+  Fall 2024 &lt;br&gt;
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Xiong Bi is a prospective Ph.D. student enrolled at Temple University, set to commence his  Ph.D. program in Civil Engineering in Fall 2024. His research focuses on Geotechnical Earthquake Engineering. Outside academia, Xiong finds joy in playing badminton and indulging in the world of music during his free time.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
   &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Habib.jpg&#34; alt=&#34;Habib&#34; /&gt; 
   Habibullah Sarker&lt;br&gt;
   Spring 2024 to present&lt;br&gt;
     &lt;/td&gt;
     &lt;td width=300&gt;
-Habibullah Sarker started his PhD journey in Civil Engineering from Spring 2024. He is pursuing computational research to analyze the deformation phenomena of granular media. In his free time, Habib loves to explore landscapes with his friends and watch movies.         
+Habibullah Sarker started his PhD journey in Civil Engineering from Spring 2024. He is pursuing computational research to analyze the deformation phenomena of granular media. In his free time, Habib loves to explore landscapes with his friends and watch movies.  
     &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
@@ -42,19 +55,7 @@ Rakam Tamang is currently pursuing a part-time PhD focusing on the application o
     &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
-  Xiong Bi&lt;br&gt;
-  Expected Fall 2024 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
-Xiong Bi is a prospective Ph.D. student enrolled at Temple University, set to commence his  Ph.D. program in Civil Engineering in Fall 2024. His research focuses on Geotechnical Earthquake Engineering. Outside academia, Xiong finds joy in playing badminton and indulging in the world of music during his free time.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
+&lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
   &lt;img src=&#34;https://yichuanzhu.github.io.git/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
@@ -65,7 +66,7 @@ Xiong Bi is a prospective Ph.D. student enrolled at Temple University, set to co
 Ladan Mohtati received her BSc and MSc in Structural Engineering from University of Tehran, Iran, with focusses on Elasticity and Wave Propogation. She has ten years of active professional experience as senior structural and building information modeling (BIM) engineer in mega projects. She is a professional dancer in the field of Iranian Classical dance, and enjoys practicing this art form in her free time.
     &lt;/td&gt;
  &lt;/tr&gt;
-&lt;/table&gt;
+&lt;/table&gt; --&gt;
 &lt;h2 id=&#34;master-students&#34;&gt;Master Students&lt;/h2&gt;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;

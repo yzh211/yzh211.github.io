@@ -47,6 +47,19 @@ My name is Weijie Jin. I graduated from Stevens Institute of Technology, and I a
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
+  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiwen.jpg&#34; alt=&#34;weijie&#34; /&gt; 
+  Xiwen Hao&lt;br&gt;
+  Fall 2025 &lt;br&gt;
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+&lt;!-- &lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
   &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
   Rakam Tamang&lt;br&gt;
   Fall 2022 - Present &lt;br&gt;
@@ -55,7 +68,7 @@ My name is Weijie Jin. I graduated from Stevens Institute of Technology, and I a
 Rakam Tamang is currently pursuing a part-time PhD focusing on the application of machine learning in geotechnical engineering since Fall 2022. With over 11 years of experience, he is a registered professional engineer and currently working as a full time Senior Geotechnical Engineer. His research interests include the utilization of probabilistic machine learning and uncertainty quantification within the field of geotechnical engineering. Mr. Tamang has successfully managed numerous design and construction projects, fulfilling roles such as the engineer of record. During his leisure time, Mr. Tamang enjoys activities such as hiking, listening to music, and reading stories. 
     &lt;/td&gt;
  &lt;/tr&gt;
-&lt;/table&gt;
+&lt;/table&gt; --&gt;
 &lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
@@ -121,6 +134,7 @@ David Kosiborod (ka-see-bar-ode) is pursuing a degree of Bachelor of Science in
 &lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Sahand Khabiri&lt;/strong&gt;, Ph.D.(2021-2024). Dissertation: &lt;em&gt;Physics-informed Bayesian Network Classifiers in Landslide Susceptibility Assessment.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Rakam Tamang&lt;/strong&gt;, Ph.D.(2022-2025). Dissertation: &lt;em&gt;Artificial Intelligence Approaches to Jet Grouting Column Diameter Prediction.&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;Emma Renee Schreiner&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;br&gt;
 &lt;strong&gt;Jacob R Fagan&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;/p&gt;
 </description>

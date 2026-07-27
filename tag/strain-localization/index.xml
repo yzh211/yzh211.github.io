@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strain Localization | Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/tag/strain-localization/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/tag/strain-localization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yichuanzhu.com/tag/strain-localization/</link>
+      <atom:link href="https://www.yichuanzhu.com/tag/strain-localization/index.xml" rel="self" type="application/rss+xml" />
     <description>Strain Localization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
       <title>Strain Localization</title>
-      <link>https://yichuanzhu.github.io.git/tag/strain-localization/</link>
+      <link>https://www.yichuanzhu.com/tag/strain-localization/</link>
     </image>
     
     <item>
-      <title>Strain Localization in Sands</title>
-      <link>https://yichuanzhu.github.io.git/project/granular/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/granular/</guid>
-      <description>&lt;p&gt;Strain localization in sand is a ubiquitous process associated with non-homogeneous deformation occurred to materials when they are subjected to compressive or tensile stresses. In CGG, we use Digital Image Correlation and Micro Computed Tomography to study various banding phenomena, including shear, expansion, and compaction bands, as well as their evolution and interactions during the shearing of granular materials. We provide insights into the overall deformation modes and inherent uncertainties, as well as spatio-temporal correlation patterns of different banding phenomena undergoing three-dimensional stress conditions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Statistical Characterization of Boundary Kinematics Observed on a Series of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematic_statistics/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_kinematic_statistics/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematic_statistics/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_kinematic_statistics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -50,9 +41,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Assessment of Spatio-Temporal Kinematic Phenomena Observed along the Boundary of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematics/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_kinematics/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematics/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_kinematics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,30 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yichuanzhu.com/</link>
+      <atom:link href="https://www.yichuanzhu.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Geosystems Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
       <title>Computational Geosystems Group</title>
-      <link>https://yichuanzhu.github.io.git/</link>
+      <link>https://www.yichuanzhu.com/</link>
     </image>
     
     <item>
-      <title>Strain Localization in Sands</title>
-      <link>https://yichuanzhu.github.io.git/project/granular/</link>
+      <title>Micro- and Nano-Mechanics of Geomaterials</title>
+      <link>https://www.yichuanzhu.com/project/granular/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/granular/</guid>
-      <description>&lt;p&gt;Strain localization in sand is a ubiquitous process associated with non-homogeneous deformation occurred to materials when they are subjected to compressive or tensile stresses. In CGG, we use Digital Image Correlation and Micro Computed Tomography to study various banding phenomena, including shear, expansion, and compaction bands, as well as their evolution and interactions during the shearing of granular materials. We provide insights into the overall deformation modes and inherent uncertainties, as well as spatio-temporal correlation patterns of different banding phenomena undergoing three-dimensional stress conditions.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/granular/</guid>
+      <description>&lt;p&gt;The engineering behavior of soil is written at the scale of its particles. How grains rearrange and interlock, how clay platelets orient and bond, and how water and ions mediate the forces between them together govern the strength, stiffness, and stability we observe in the field. CGG works at these micro- and nano-scales to explain, and ultimately predict, that field-scale response.&lt;/p&gt;
+&lt;p&gt;We couple advanced imaging with mechanical testing to observe geomaterials while they deform. Synchrotron X-ray techniques resolve grain contacts, pore structure, and clay fabric at resolutions unreachable in a conventional laboratory, while micro-computed tomography and digital image correlation track how those features evolve through a full loading path. Applied to sands, this approach characterizes strain localization, including the nucleation, evolution, and interaction of shear, dilation, and compaction bands under three-dimensional stress conditions. Applied to clays, it targets fabric anisotropy, interparticle forces, and the microstructural origins of compressibility and time-dependent behavior.&lt;/p&gt;
+&lt;p&gt;Our aim is to connect these observations to practice. Grain- and particle-scale mechanisms are translated into constitutive descriptions and quantified uncertainty bounds that inform how geotechnical systems are designed, monitored, and maintained.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD Students</title>
-      <link>https://yichuanzhu.github.io.git/opening/phd/</link>
+      <link>https://www.yichuanzhu.com/opening/phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/opening/phd/</guid>
+      <guid>https://www.yichuanzhu.com/opening/phd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Please refer to our &lt;a href=&#34;https://engineering.temple.edu/admissions/graduate-admissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graduate admission&lt;/a&gt; website about deadlines and requirements&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We always look for motivates PhD students to join our group! The prospective PhD student will work closely with Dr. Zhu to explore topics in the intersection of computer science, geotechnical engineering, and geosciences. This would be an ideal position for someone is 1) experience in open-source project in the use of remote sensing data to support geologic/geotechnical research at a level appropriate for journal publication or 2) experience in laboratory or numerical experiments for the study of fundamental geomechanics.&lt;/p&gt;
 &lt;h2 id=&#34;qualification&#34;&gt;Qualification&lt;/h2&gt;
@@ -53,18 +55,20 @@
     
     <item>
       <title>Risk Assessment and Management</title>
-      <link>https://yichuanzhu.github.io.git/project/risk/</link>
+      <link>https://www.yichuanzhu.com/project/risk/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/risk/</guid>
-      <description>&lt;p&gt;The streamline of engineering design evolved from Factor of Safety to Reliability Index, and about to the risk-informed design &amp;amp; management in the foreseeable future. In CGG, we focus on using datasets consisting of aerial photography, geology, soils, hydrologic information,  LiDAR (point clouds and DEMS), and infrastructure and residential information, to create machine learning models for geo-hazard analysis and test the probability of failure under different geologic and hydrologic conditions. The results will identify vulnerable areas and the potential impact on the built environment, all of which will be incorporated into mitigation strategies that represent a giant step forward in making community resilient.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/risk/</guid>
+      <description>&lt;p&gt;Geotechnical design has moved from the Factor of Safety to the Reliability Index, and is now moving toward risk-informed design and management. That shift asks a harder question than &amp;ldquo;will it fail?&amp;rdquo; It asks what is exposed, what the consequences would be, and where limited resources should go first. CGG works on that question at the regional scale, where infrastructure owners actually have to make decisions.&lt;/p&gt;
+&lt;p&gt;Our work centers on landslides and slope performance. We build landslide inventories and susceptibility models from aerial photography, geologic and soils mapping, hydrologic records, LiDAR point clouds and derived terrain models, and infrastructure and population data, with particular attention to how model structure and the treatment of non-landslide samples shape the resulting hazard estimates. Ongoing projects extend this to rainfall-triggered slope performance along transportation corridors and to susceptibility mapping in landslide-prone urban regions.&lt;/p&gt;
+&lt;p&gt;Hazard is only one term. We pair these models with exposure and consequence information so that outputs are not just maps of where failure is likely, but assessments of what that failure would cost, expressed in forms that support prioritization, mitigation planning, and long-term resilience for the communities and networks involved.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Undergraduate Students</title>
-      <link>https://yichuanzhu.github.io.git/opening/undergraduate/</link>
+      <link>https://www.yichuanzhu.com/opening/undergraduate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/opening/undergraduate/</guid>
+      <guid>https://www.yichuanzhu.com/opening/undergraduate/</guid>
       <description>&lt;p&gt;We have a strong record of working with undergraduate researchers. The working areas include building laboratory apparatus, pre/post-processing datasets, conducting tests at the remote site, etc. Undergraduate researchers are typically paid by hours a week.&lt;/p&gt;
 &lt;h2 id=&#34;qualification&#34;&gt;Qualification&lt;/h2&gt;
 &lt;ul&gt;
@@ -84,27 +88,31 @@
     
     <item>
       <title>Computational Geosciences</title>
-      <link>https://yichuanzhu.github.io.git/project/compute_tools/</link>
+      <link>https://www.yichuanzhu.com/project/compute_tools/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/compute_tools/</guid>
-      <description>&lt;p&gt;Remote sensing has emerged as a powerful technique for acquiring geotechnical and geological characteristics in a spatial-temporal manner. In CGG, we use satellite images, airborne LiDAR and related data to help solve scientific research problems related to geomorphologic change detection, geohazard assessment, site responses, and climate change topics. Our goal is to combine cutting-off sensing technology, geological/geotechnical information, and computational power to develop, test, and deliver robust solutions to geotechnical/geosciences communities.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/compute_tools/</guid>
+      <description>&lt;p&gt;Remote sensing has become a practical way to characterize geologic and geotechnical conditions across space and through time. CGG develops the observational and computational machinery that makes those data usable: acquiring them, correcting them, extracting meaningful features from them, and releasing the tools so others can do the same.&lt;/p&gt;
+&lt;p&gt;Our work spans several data sources and scales. We use satellite imagery, airborne LiDAR point clouds, and derived elevation models for geomorphologic change detection, terrain characterization, and site response studies, and we develop algorithms for problems that off-the-shelf software handles poorly, such as automated swath analysis of complex topographic features and non-affine georectification that restores the topographic fidelity of legacy geologic maps. A parallel effort integrates in-situ measurement, local site investigation, and remote observation into a single assessment framework for transportation infrastructure, so that sparse borehole information and dense surface observation inform one another rather than being interpreted in isolation.&lt;/p&gt;
+&lt;p&gt;We release this work as documented, open-source software. Methods that stay inside a single research group have limited reach; the goal is robust, tested tools that the wider geotechnical and geoscience communities can apply to their own sites and data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
-      <link>https://yichuanzhu.github.io.git/project/uncertainty/</link>
+      <link>https://www.yichuanzhu.com/project/uncertainty/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/uncertainty/</guid>
-      <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/uncertainty/</guid>
+      <description>&lt;p&gt;A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. CGG develops probabilistic methods that make that distribution explicit and defensible.&lt;/p&gt;
+&lt;p&gt;We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p&gt;
+&lt;p&gt;Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Non-affine georectification to improve the topographic fidelity of legacy geologic maps</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_georectification/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_georectification/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_georectification/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_georectification/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -129,9 +137,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>An Assessment of Negative Samples and Model Structures in Landslide Susceptibility Characterization Based on Bayesian Network Models</title>
-      <link>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</link>
+      <link>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</guid>
+      <guid>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -156,9 +164,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Landslide Risk Assessment in Eastern Kentucky, USA: Developing a Regional Scale, Limited Resource Approach</title>
-      <link>https://yichuanzhu.github.io.git/publication/crawford_2022_landslide_risk/</link>
+      <link>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/crawford_2022_landslide_risk/</guid>
+      <guid>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -183,9 +191,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Statistical Characterization of Boundary Kinematics Observed on a Series of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematic_statistics/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_kinematic_statistics/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematic_statistics/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_kinematic_statistics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -210,9 +218,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Assessment of Spatio-Temporal Kinematic Phenomena Observed along the Boundary of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematics/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_kinematics/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_kinematics/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_kinematics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -237,9 +245,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Spatio-Temporal Statistical Characterization of Boundary Kinematic Phenomena of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_displacement_statistics/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_displacement_statistics/</link>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_displacement_statistics/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_displacement_statistics/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -264,9 +272,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>An intelligent swath tool to characterize complex topographic features: theory and application in the teton range, licking river, and olympus mons</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2021_swath_tool/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2021_swath_tool/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2021_swath_tool/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2021_swath_tool/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -291,9 +299,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Global and Local Deformation Effects of Dry Vacuum-Consolidated Triaxial Compression Tests on Sand Specimens: Making a Database Available for the Calibration and Development of Forward Models</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2022_traxial_database/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2022_traxial_database/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2022_traxial_database/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2022_traxial_database/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -318,9 +326,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Using landslide-inventory mapping for a combined bagged-trees and logistic-regression approach to determining landslide susceptibility in eastern Kentucky, USA</title>
-      <link>https://yichuanzhu.github.io.git/publication/crawford_2021_susceptibility_mapping/</link>
+      <link>https://www.yichuanzhu.com/publication/crawford_2021_susceptibility_mapping/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/crawford_2021_susceptibility_mapping/</guid>
+      <guid>https://www.yichuanzhu.com/publication/crawford_2021_susceptibility_mapping/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -345,9 +353,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Mapping Fundamental‐Mode Site Periods and Amplifications from Thick Sediments: An Example from the Jackson Purchase Region of Western Kentucky, Central United States</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2021_site_response/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2021_site_response/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2021_site_response/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2021_site_response/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -372,9 +380,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Spatio-Temporal Statistical Characterization of Boundary Kinematic Phenomena Observed on a Series of Triaxial Sand Specimens</title>
-      <link>https://yichuanzhu.github.io.git/publication/zhu_2019_dissertation/</link>
+      <link>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/zhu_2019_dissertation/</guid>
+      <guid>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -399,9 +407,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>News</title>
-      <link>https://yichuanzhu.github.io.git/news/news/</link>
+      <link>https://www.yichuanzhu.com/news/news/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/news/news/</guid>
+      <guid>https://www.yichuanzhu.com/news/news/</guid>
       <description>
 
 
@@ -411,6 +419,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 
 
+&lt;p&gt;[07/2026]: Welcome Liting Zheng as the new Ph.D. student to join CGG team in Fall 2026.&lt;/p&gt;
 &lt;p&gt;[01/2026]: Welcome Minghao Ai as the new Ph.D. student to join CGG team.&lt;/p&gt;
 &lt;p&gt;[09/2025]: Welcome Weijie Jin and Xiwen Hao as the new Ph.D. students to join CGG team.&lt;/p&gt;
 &lt;p&gt;[08/2025]: Congratulations to Ph.D. candidate Rakam Tamang successfully defended his dissertation entitled &lt;a href=&#34;https://www.linkedin.com/posts/yichuan-zhu-4a193892_groundimprovement-deeplearning-transformermodel-activity-7369561780542468097-oqL1?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAABO3N7kB1l5YMBNUtH3HDClJVz8zBVLfcp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Artificial Intelligence Approaches to Jet Grouting Column Diameter Prediction.&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
@@ -429,18 +438,19 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title></title>
-      <link>https://yichuanzhu.github.io.git/admin/config.yml</link>
+      <link>https://www.yichuanzhu.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/admin/config.yml</guid>
+      <guid>https://www.yichuanzhu.com/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://yichuanzhu.github.io.git/news/newslist/</link>
+      <link>https://www.yichuanzhu.com/news/newslist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/news/newslist/</guid>
-      <description>&lt;p&gt;[01/2026]: Welcome Minghao Ai as the new Ph.D. student to join CGG team.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/news/newslist/</guid>
+      <description>&lt;p&gt;[07/2026]: Welcome Liting Zheng as the new Ph.D. student to join CGG team in Fall 2026.&lt;/p&gt;
+&lt;p&gt;[01/2026]: Welcome Minghao Ai as the new Ph.D. student to join CGG team.&lt;/p&gt;
 &lt;p&gt;[09/2025]: Welcome Weijie Jin and Xiwen Hao as the new Ph.D. students to join CGG team.&lt;/p&gt;
 &lt;p&gt;[08/2025]: Congratulations to Ph.D. candidate Rakam Tamang successfully defended his dissertation entitled &lt;a href=&#34;https://www.linkedin.com/posts/yichuan-zhu-4a193892_groundimprovement-deeplearning-transformermodel-activity-7369561780542468097-oqL1?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAABO3N7kB1l5YMBNUtH3HDClJVz8zBVLfcp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Artificial Intelligence Approaches to Jet Grouting Column Diameter Prediction.&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;[03/2025]: Dr. Zhu presented the paper &lt;a href=&#34;https://ascelibrary.org/doi/abs/10.1061/9780784486016.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Modeling Spatial Variability of Ground-Motion Site Resonances for the Jackson Purchase Region in the New Madrid Seismic Zone&amp;rdquo;&lt;/a&gt; during Geotechnical Frontiers 2025 Conference at Luisville, KY.&lt;/p&gt;
@@ -457,14 +467,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title></title>
-      <link>https://yichuanzhu.github.io.git/team/students/</link>
+      <link>https://www.yichuanzhu.com/team/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/team/students/</guid>
+      <guid>https://www.yichuanzhu.com/team/students/</guid>
       <description>&lt;h2 id=&#34;phd-students&#34;&gt;Ph.D. Students&lt;/h2&gt;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
   Xiong Bi&lt;br&gt;
   Fall 2024 &lt;br&gt;
     &lt;/td&gt;
@@ -477,9 +487,22 @@ Xiong Bi is a Ph.D. student joined Computational Geosystems Group since Fall 202
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Minghao.jpg&#34; alt=&#34;weijie&#34; /&gt; 
-  Weijie Jin&lt;br&gt;
-  Summer 2025 &lt;br&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiwen.jpg&#34; alt=&#34;Xiwen&#34; /&gt; 
+  Xiwen Hao&lt;br&gt;
+  Fall 2025 &lt;br&gt;
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Minghao.jpg&#34; alt=&#34;Minghao&#34; /&gt; 
+  Minghao Ai&lt;br&gt;
+  Spring 2026 &lt;br&gt;
     &lt;/td&gt;
     &lt;td width=300&gt;
 Minghao is a Ph.D. student enrolled at Temple University since 2026. With a background in civil engineering, her academic interests include granular mechanics, soil modeling, and probabilistic machine learning. She is currently working on projects related to geological setting, engineering test boring information, and micro-mechanics of geo-materials. In her free time, she enjoys reading and traveling.
@@ -490,12 +513,12 @@ Minghao is a Ph.D. student enrolled at Temple University since 2026. With a back
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiwen.jpg&#34; alt=&#34;weijie&#34; /&gt; 
-  Xiwen Hao&lt;br&gt;
-  Fall 2025 &lt;br&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Liting.jpg&#34; alt=&#34;Liting&#34; /&gt; 
+  Liting Zheng&lt;br&gt;
+  Fall 2026 &lt;br&gt;
     &lt;/td&gt;
     &lt;td width=300&gt;
-Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
+Liting Zheng is a Ph.D. student in Civil Engineering, joining the research group in Fall 2026. With a background in civil and geotechnical engineering, her research focuses on AI/ML applications in geotechnical engineering, experimental testing and numerical simulation of geomaterials, and uncertainty quantification. Outside of research, Liting enjoys photography and spending time with friends.
     &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
@@ -503,7 +526,7 @@ Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple Un
 &lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
   Rakam Tamang&lt;br&gt;
   Fall 2022 - Present &lt;br&gt;
     &lt;/td&gt;
@@ -515,7 +538,7 @@ Rakam Tamang is currently pursuing a part-time PhD focusing on the application o
 &lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
   Ladan Mohtati&lt;br&gt;
   Expected Spring 2025 &lt;br&gt;
     &lt;/td&gt;
@@ -528,7 +551,7 @@ Ladan Mohtati received her BSc and MSc in Structural Engineering from University
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-&lt;img src=&#34;https://yichuanzhu.github.io.git/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
+&lt;img src=&#34;https://www.yichuanzhu.com/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
 Kate Kubiak&lt;br&gt;
 Spring 2022 to present&lt;br&gt; 
     &lt;/td&gt;
@@ -541,7 +564,7 @@ Kate Kubiak (she/her) is a graduate student in the civil engineering master&#39;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
   Alex Miller&lt;br&gt;
   Spring 2023 to present 
     &lt;/td&gt;
@@ -553,7 +576,7 @@ Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying f
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Noel.jpeg&#34; alt=&#34;Noel&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Noel.jpeg&#34; alt=&#34;Noel&#34; /&gt; 
   Noel M Roberts&lt;br&gt;
   Spring 2025 to present 
     &lt;/td&gt;
@@ -565,7 +588,7 @@ My name is Noel Roberts. After transferring from Community College of Philadelph
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/David.jpeg&#34; alt=&#34;David&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/David.jpeg&#34; alt=&#34;David&#34; /&gt; 
   David Kosiborod&lt;br&gt;
   Fall 2023 to present 
     &lt;/td&gt;
@@ -585,9 +608,9 @@ David Kosiborod (ka-see-bar-ode) is pursuing a degree of Bachelor of Science in
     
     <item>
       <title>Reproducing PyOSP paper results (Part 1) - topographic analysis of Teton Range, Wyoming</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_teton/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_teton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_teton/</guid>
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_teton/</guid>
       <description>&lt;p&gt;The objective of this tutorial is to present the process of analysis shown in the &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt; section 4.1. We will reproduce all relevant results by the following steps.&lt;/p&gt;
 &lt;p&gt;This tutorial starts from installing Python and PyOSP on your computer. If you are familiar with the installing process, please jumping into the section of downloading the dataset.&lt;/p&gt;
 &lt;h2 id=&#34;install-pyosp&#34;&gt;Install PyOSP&lt;/h2&gt;
@@ -843,10 +866,10 @@ representing erosional and depositional areas of the topography, respectively.&l
     
     <item>
       <title>Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_licking/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_licking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_licking/</guid>
-      <description>&lt;p&gt;In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis. The content introduced here corresponds to the section 4.2 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://yichuanzhu.github.io.git/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_licking/</guid>
+      <description>&lt;p&gt;In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis. The content introduced here corresponds to the section 4.2 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://www.yichuanzhu.com/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
 &lt;h2 id=&#34;tpi-based-swath-analysis&#34;&gt;TPI based swath analysis&lt;/h2&gt;
 &lt;p&gt;In this case study, we use TPI based swath method to characterize the Licking River. In the &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt; Figure 9, we present the differences between TPI based and elevation based methods for identifying the river valley. In general, PyOSP classification of the Licking River Valley was successful using both TPI and elevation (Fig. 9c). However, elevation would not be an ideal classification criterion in valley settings with higher gradients, including a longer reach of the Licking River. A TPI value of 0, on the other
 hand, will remain the approximate midpoint (inflection point) of the valley slopes along a river&amp;rsquo;s entire length.&lt;/p&gt;
@@ -1092,10 +1115,10 @@ C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctio
     
     <item>
       <title>Reproducing PyOSP paper results (Part 3) - circular swath analysis of Olympus Mons, Mars</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_mars/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_mars/</guid>
-      <description>&lt;p&gt;In this tutorial, we will perform circular swath analysis toward the largest known shield volcano in the solar system, Olympus Mons, Mars. It consists of TPI bases swath analysis, slice of the profile, and comparison between traditional and TPI based circular swath profile. The content introduced here corresponds to the section 4.3 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://yichuanzhu.github.io.git/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_mars/</guid>
+      <description>&lt;p&gt;In this tutorial, we will perform circular swath analysis toward the largest known shield volcano in the solar system, Olympus Mons, Mars. It consists of TPI bases swath analysis, slice of the profile, and comparison between traditional and TPI based circular swath profile. The content introduced here corresponds to the section 4.3 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://www.yichuanzhu.com/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
 &lt;h2 id=&#34;traditional-and-tpi-based-circular-swath-profiles&#34;&gt;Traditional and TPI-based circular swath profiles&lt;/h2&gt;
 &lt;p&gt;To assess the circular swath capabilities of PyOSP, we performed swath analysis of the Olympus Mons edifice as well as used several post-processing functions to investigate the asymmetry of the volcano. We conducted traditional fixed-radius- and TPI-based swath analysis to compare and assess the efficacy of both methods.&lt;/p&gt;
 &lt;p&gt;Note that the circular swath profile provided by PyOSP can be also applied to other geographic objects, such as impact craters, sinkholes, seafloor pockmarks, etc.&lt;/p&gt;

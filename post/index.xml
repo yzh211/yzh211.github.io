@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/post/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yichuanzhu.com/post/</link>
+      <atom:link href="https://www.yichuanzhu.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
-      <link>https://yichuanzhu.github.io.git/post/</link>
+      <link>https://www.yichuanzhu.com/post/</link>
     </image>
     
     <item>
       <title>Reproducing PyOSP paper results (Part 1) - topographic analysis of Teton Range, Wyoming</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_teton/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_teton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_teton/</guid>
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_teton/</guid>
       <description>&lt;p&gt;The objective of this tutorial is to present the process of analysis shown in the &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt; section 4.1. We will reproduce all relevant results by the following steps.&lt;/p&gt;
 &lt;p&gt;This tutorial starts from installing Python and PyOSP on your computer. If you are familiar with the installing process, please jumping into the section of downloading the dataset.&lt;/p&gt;
 &lt;h2 id=&#34;install-pyosp&#34;&gt;Install PyOSP&lt;/h2&gt;
@@ -272,10 +272,10 @@ representing erosional and depositional areas of the topography, respectively.&l
     
     <item>
       <title>Reproducing PyOSP paper results (Part 2) - terrace correlation along the Licking River, Kentucky</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_licking/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_licking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_licking/</guid>
-      <description>&lt;p&gt;In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis. The content introduced here corresponds to the section 4.2 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://yichuanzhu.github.io.git/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_licking/</guid>
+      <description>&lt;p&gt;In this tutorial, we will show how to use PyOSP performing intelligent swath analysis towards fluvial system. It consists of TPI bases swath analysis, scatter plot of obtained data, and histogram analysis. The content introduced here corresponds to the section 4.2 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://www.yichuanzhu.com/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
 &lt;h2 id=&#34;tpi-based-swath-analysis&#34;&gt;TPI based swath analysis&lt;/h2&gt;
 &lt;p&gt;In this case study, we use TPI based swath method to characterize the Licking River. In the &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt; Figure 9, we present the differences between TPI based and elevation based methods for identifying the river valley. In general, PyOSP classification of the Licking River Valley was successful using both TPI and elevation (Fig. 9c). However, elevation would not be an ideal classification criterion in valley settings with higher gradients, including a longer reach of the Licking River. A TPI value of 0, on the other
 hand, will remain the approximate midpoint (inflection point) of the valley slopes along a river&amp;rsquo;s entire length.&lt;/p&gt;
@@ -521,10 +521,10 @@ C:\Users\yzh486\Miniconda3\envs\env_pyosp\lib\site-packages\numpy\lib\nanfunctio
     
     <item>
       <title>Reproducing PyOSP paper results (Part 3) - circular swath analysis of Olympus Mons, Mars</title>
-      <link>https://yichuanzhu.github.io.git/post/pyosp_case_mars/</link>
+      <link>https://www.yichuanzhu.com/post/pyosp_case_mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/post/pyosp_case_mars/</guid>
-      <description>&lt;p&gt;In this tutorial, we will perform circular swath analysis toward the largest known shield volcano in the solar system, Olympus Mons, Mars. It consists of TPI bases swath analysis, slice of the profile, and comparison between traditional and TPI based circular swath profile. The content introduced here corresponds to the section 4.3 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://yichuanzhu.github.io.git/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/post/pyosp_case_mars/</guid>
+      <description>&lt;p&gt;In this tutorial, we will perform circular swath analysis toward the largest known shield volcano in the solar system, Olympus Mons, Mars. It consists of TPI bases swath analysis, slice of the profile, and comparison between traditional and TPI based circular swath profile. The content introduced here corresponds to the section 4.3 of &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0169555X21001860&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyOSP paper&lt;/a&gt;. The installation of PyOSP is introduced by the tutorial &lt;a href=&#34;https://www.yichuanzhu.com/post/pyosp_case_teton/&#34;&gt;Topographic analysis of Teton Range, Wyoming&lt;/a&gt;, which will not be repeated here.&lt;/p&gt;
 &lt;h2 id=&#34;traditional-and-tpi-based-circular-swath-profiles&#34;&gt;Traditional and TPI-based circular swath profiles&lt;/h2&gt;
 &lt;p&gt;To assess the circular swath capabilities of PyOSP, we performed swath analysis of the Olympus Mons edifice as well as used several post-processing functions to investigate the asymmetry of the volcano. We conducted traditional fixed-radius- and TPI-based swath analysis to compare and assess the efficacy of both methods.&lt;/p&gt;
 &lt;p&gt;Note that the circular swath profile provided by PyOSP can be also applied to other geographic objects, such as impact craters, sinkholes, seafloor pockmarks, etc.&lt;/p&gt;

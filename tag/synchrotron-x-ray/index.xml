@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synchrotron X-ray | Computational Geosystems Group</title>
+    <link>https://www.yichuanzhu.com/tag/synchrotron-x-ray/</link>
+      <atom:link href="https://www.yichuanzhu.com/tag/synchrotron-x-ray/index.xml" rel="self" type="application/rss+xml" />
+    <description>Synchrotron X-ray</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Synchrotron X-ray</title>
+      <link>https://www.yichuanzhu.com/tag/synchrotron-x-ray/</link>
+    </image>
+    
+    <item>
+      <title>Micro- and Nano-Mechanics of Geomaterials</title>
+      <link>https://www.yichuanzhu.com/project/granular/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.yichuanzhu.com/project/granular/</guid>
+      <description>&lt;p&gt;The engineering behavior of soil is written at the scale of its particles. How grains rearrange and interlock, how clay platelets orient and bond, and how water and ions mediate the forces between them together govern the strength, stiffness, and stability we observe in the field. CGG works at these micro- and nano-scales to explain, and ultimately predict, that field-scale response.&lt;/p&gt;
+&lt;p&gt;We couple advanced imaging with mechanical testing to observe geomaterials while they deform. Synchrotron X-ray techniques resolve grain contacts, pore structure, and clay fabric at resolutions unreachable in a conventional laboratory, while micro-computed tomography and digital image correlation track how those features evolve through a full loading path. Applied to sands, this approach characterizes strain localization, including the nucleation, evolution, and interaction of shear, dilation, and compaction bands under three-dimensional stress conditions. Applied to clays, it targets fabric anisotropy, interparticle forces, and the microstructural origins of compressibility and time-dependent behavior.&lt;/p&gt;
+&lt;p&gt;Our aim is to connect these observations to practice. Grain- and particle-scale mechanisms are translated into constitutive descriptions and quantified uncertainty bounds that inform how geotechnical systems are designed, monitored, and maintained.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

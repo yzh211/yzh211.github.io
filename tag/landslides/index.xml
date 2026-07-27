@@ -2,30 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landslides | Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/tag/landslides/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/tag/landslides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yichuanzhu.com/tag/landslides/</link>
+      <atom:link href="https://www.yichuanzhu.com/tag/landslides/index.xml" rel="self" type="application/rss+xml" />
     <description>Landslides</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
       <title>Landslides</title>
-      <link>https://yichuanzhu.github.io.git/tag/landslides/</link>
+      <link>https://www.yichuanzhu.com/tag/landslides/</link>
     </image>
     
     <item>
       <title>Risk Assessment and Management</title>
-      <link>https://yichuanzhu.github.io.git/project/risk/</link>
+      <link>https://www.yichuanzhu.com/project/risk/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/risk/</guid>
-      <description>&lt;p&gt;The streamline of engineering design evolved from Factor of Safety to Reliability Index, and about to the risk-informed design &amp;amp; management in the foreseeable future. In CGG, we focus on using datasets consisting of aerial photography, geology, soils, hydrologic information,  LiDAR (point clouds and DEMS), and infrastructure and residential information, to create machine learning models for geo-hazard analysis and test the probability of failure under different geologic and hydrologic conditions. The results will identify vulnerable areas and the potential impact on the built environment, all of which will be incorporated into mitigation strategies that represent a giant step forward in making community resilient.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/risk/</guid>
+      <description>&lt;p&gt;Geotechnical design has moved from the Factor of Safety to the Reliability Index, and is now moving toward risk-informed design and management. That shift asks a harder question than &amp;ldquo;will it fail?&amp;rdquo; It asks what is exposed, what the consequences would be, and where limited resources should go first. CGG works on that question at the regional scale, where infrastructure owners actually have to make decisions.&lt;/p&gt;
+&lt;p&gt;Our work centers on landslides and slope performance. We build landslide inventories and susceptibility models from aerial photography, geologic and soils mapping, hydrologic records, LiDAR point clouds and derived terrain models, and infrastructure and population data, with particular attention to how model structure and the treatment of non-landslide samples shape the resulting hazard estimates. Ongoing projects extend this to rainfall-triggered slope performance along transportation corridors and to susceptibility mapping in landslide-prone urban regions.&lt;/p&gt;
+&lt;p&gt;Hazard is only one term. We pair these models with exposure and consequence information so that outputs are not just maps of where failure is likely, but assessments of what that failure would cost, expressed in forms that support prioritization, mitigation planning, and long-term resilience for the communities and networks involved.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Assessment of Negative Samples and Model Structures in Landslide Susceptibility Characterization Based on Bayesian Network Models</title>
-      <link>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</link>
+      <link>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/sahand_2023_negative_samples/</guid>
+      <guid>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -50,9 +52,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Landslide Risk Assessment in Eastern Kentucky, USA: Developing a Regional Scale, Limited Resource Approach</title>
-      <link>https://yichuanzhu.github.io.git/publication/crawford_2022_landslide_risk/</link>
+      <link>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/publication/crawford_2022_landslide_risk/</guid>
+      <guid>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

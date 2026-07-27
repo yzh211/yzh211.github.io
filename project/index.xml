@@ -1,50 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/project/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <title>Projects | Computational Geosystems Group</title>
+    <link>https://www.yichuanzhu.com/project/</link>
+      <atom:link href="https://www.yichuanzhu.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
-      <link>https://yichuanzhu.github.io.git/project/</link>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://www.yichuanzhu.com/project/</link>
     </image>
     
     <item>
-      <title>Strain Localization in Sands</title>
-      <link>https://yichuanzhu.github.io.git/project/granular/</link>
+      <title>Micro- and Nano-Mechanics of Geomaterials</title>
+      <link>https://www.yichuanzhu.com/project/granular/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/granular/</guid>
-      <description>&lt;p&gt;Strain localization in sand is a ubiquitous process associated with non-homogeneous deformation occurred to materials when they are subjected to compressive or tensile stresses. In CGG, we use Digital Image Correlation and Micro Computed Tomography to study various banding phenomena, including shear, expansion, and compaction bands, as well as their evolution and interactions during the shearing of granular materials. We provide insights into the overall deformation modes and inherent uncertainties, as well as spatio-temporal correlation patterns of different banding phenomena undergoing three-dimensional stress conditions.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/granular/</guid>
+      <description>&lt;p&gt;The engineering behavior of soil is written at the scale of its particles. How grains rearrange and interlock, how clay platelets orient and bond, and how water and ions mediate the forces between them together govern the strength, stiffness, and stability we observe in the field. CGG works at these micro- and nano-scales to explain, and ultimately predict, that field-scale response.&lt;/p&gt;
+&lt;p&gt;We couple advanced imaging with mechanical testing to observe geomaterials while they deform. Synchrotron X-ray techniques resolve grain contacts, pore structure, and clay fabric at resolutions unreachable in a conventional laboratory, while micro-computed tomography and digital image correlation track how those features evolve through a full loading path. Applied to sands, this approach characterizes strain localization, including the nucleation, evolution, and interaction of shear, dilation, and compaction bands under three-dimensional stress conditions. Applied to clays, it targets fabric anisotropy, interparticle forces, and the microstructural origins of compressibility and time-dependent behavior.&lt;/p&gt;
+&lt;p&gt;Our aim is to connect these observations to practice. Grain- and particle-scale mechanisms are translated into constitutive descriptions and quantified uncertainty bounds that inform how geotechnical systems are designed, monitored, and maintained.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Risk Assessment and Management</title>
-      <link>https://yichuanzhu.github.io.git/project/risk/</link>
+      <link>https://www.yichuanzhu.com/project/risk/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/risk/</guid>
-      <description>&lt;p&gt;The streamline of engineering design evolved from Factor of Safety to Reliability Index, and about to the risk-informed design &amp;amp; management in the foreseeable future. In CGG, we focus on using datasets consisting of aerial photography, geology, soils, hydrologic information,  LiDAR (point clouds and DEMS), and infrastructure and residential information, to create machine learning models for geo-hazard analysis and test the probability of failure under different geologic and hydrologic conditions. The results will identify vulnerable areas and the potential impact on the built environment, all of which will be incorporated into mitigation strategies that represent a giant step forward in making community resilient.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/risk/</guid>
+      <description>&lt;p&gt;Geotechnical design has moved from the Factor of Safety to the Reliability Index, and is now moving toward risk-informed design and management. That shift asks a harder question than &amp;ldquo;will it fail?&amp;rdquo; It asks what is exposed, what the consequences would be, and where limited resources should go first. CGG works on that question at the regional scale, where infrastructure owners actually have to make decisions.&lt;/p&gt;
+&lt;p&gt;Our work centers on landslides and slope performance. We build landslide inventories and susceptibility models from aerial photography, geologic and soils mapping, hydrologic records, LiDAR point clouds and derived terrain models, and infrastructure and population data, with particular attention to how model structure and the treatment of non-landslide samples shape the resulting hazard estimates. Ongoing projects extend this to rainfall-triggered slope performance along transportation corridors and to susceptibility mapping in landslide-prone urban regions.&lt;/p&gt;
+&lt;p&gt;Hazard is only one term. We pair these models with exposure and consequence information so that outputs are not just maps of where failure is likely, but assessments of what that failure would cost, expressed in forms that support prioritization, mitigation planning, and long-term resilience for the communities and networks involved.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computational Geosciences</title>
-      <link>https://yichuanzhu.github.io.git/project/compute_tools/</link>
+      <link>https://www.yichuanzhu.com/project/compute_tools/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/compute_tools/</guid>
-      <description>&lt;p&gt;Remote sensing has emerged as a powerful technique for acquiring geotechnical and geological characteristics in a spatial-temporal manner. In CGG, we use satellite images, airborne LiDAR and related data to help solve scientific research problems related to geomorphologic change detection, geohazard assessment, site responses, and climate change topics. Our goal is to combine cutting-off sensing technology, geological/geotechnical information, and computational power to develop, test, and deliver robust solutions to geotechnical/geosciences communities.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/compute_tools/</guid>
+      <description>&lt;p&gt;Remote sensing has become a practical way to characterize geologic and geotechnical conditions across space and through time. CGG develops the observational and computational machinery that makes those data usable: acquiring them, correcting them, extracting meaningful features from them, and releasing the tools so others can do the same.&lt;/p&gt;
+&lt;p&gt;Our work spans several data sources and scales. We use satellite imagery, airborne LiDAR point clouds, and derived elevation models for geomorphologic change detection, terrain characterization, and site response studies, and we develop algorithms for problems that off-the-shelf software handles poorly, such as automated swath analysis of complex topographic features and non-affine georectification that restores the topographic fidelity of legacy geologic maps. A parallel effort integrates in-situ measurement, local site investigation, and remote observation into a single assessment framework for transportation infrastructure, so that sparse borehole information and dense surface observation inform one another rather than being interpreted in isolation.&lt;/p&gt;
+&lt;p&gt;We release this work as documented, open-source software. Methods that stay inside a single research group have limited reach; the goal is robust, tested tools that the wider geotechnical and geoscience communities can apply to their own sites and data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
-      <link>https://yichuanzhu.github.io.git/project/uncertainty/</link>
+      <link>https://www.yichuanzhu.com/project/uncertainty/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/project/uncertainty/</guid>
-      <description>&lt;p&gt;CGG conducts research on uncertainty quantification and machine learning from the probabilistic perspective to characterize uncertainty inherent in each participating source of evidence, and to study how the randomness associated with model parameters influences the model predictions. The broad applicability of this framework has allowed us to conduct several collaborative research on topics of rheological property of sandstone, soil erodibility, etc.&lt;/p&gt;
+      <guid>https://www.yichuanzhu.com/project/uncertainty/</guid>
+      <description>&lt;p&gt;A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. CGG develops probabilistic methods that make that distribution explicit and defensible.&lt;/p&gt;
+&lt;p&gt;We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p&gt;
+&lt;p&gt;Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p&gt;
 </description>
     </item>
     

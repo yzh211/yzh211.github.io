@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams | Computational Geosystems Group</title>
-    <link>https://yichuanzhu.github.io.git/team/</link>
-      <atom:link href="https://yichuanzhu.github.io.git/team/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yichuanzhu.com/team/</link>
+      <atom:link href="https://www.yichuanzhu.com/team/index.xml" rel="self" type="application/rss+xml" />
     <description>Teams</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://yichuanzhu.github.io.git/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
       <title>Teams</title>
-      <link>https://yichuanzhu.github.io.git/team/</link>
+      <link>https://www.yichuanzhu.com/team/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://yichuanzhu.github.io.git/team/students/</link>
+      <link>https://www.yichuanzhu.com/team/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yichuanzhu.github.io.git/team/students/</guid>
+      <guid>https://www.yichuanzhu.com/team/students/</guid>
       <description>&lt;h2 id=&#34;phd-students&#34;&gt;Ph.D. Students&lt;/h2&gt;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
   Xiong Bi&lt;br&gt;
   Fall 2024 &lt;br&gt;
     &lt;/td&gt;
@@ -34,9 +34,22 @@ Xiong Bi is a Ph.D. student joined Computational Geosystems Group since Fall 202
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Minghao.jpg&#34; alt=&#34;weijie&#34; /&gt; 
-  Weijie Jin&lt;br&gt;
-  Summer 2025 &lt;br&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiwen.jpg&#34; alt=&#34;Xiwen&#34; /&gt; 
+  Xiwen Hao&lt;br&gt;
+  Fall 2025 &lt;br&gt;
+    &lt;/td&gt;
+    &lt;td width=300&gt;
+Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
+    &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&#34;0&#34;&gt;
+&lt;table border=&#34;0&#34;&gt;
+ &lt;tr&gt;
+    &lt;td width=150&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Minghao.jpg&#34; alt=&#34;Minghao&#34; /&gt; 
+  Minghao Ai&lt;br&gt;
+  Spring 2026 &lt;br&gt;
     &lt;/td&gt;
     &lt;td width=300&gt;
 Minghao is a Ph.D. student enrolled at Temple University since 2026. With a background in civil engineering, her academic interests include granular mechanics, soil modeling, and probabilistic machine learning. She is currently working on projects related to geological setting, engineering test boring information, and micro-mechanics of geo-materials. In her free time, she enjoys reading and traveling.
@@ -47,12 +60,12 @@ Minghao is a Ph.D. student enrolled at Temple University since 2026. With a back
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Xiwen.jpg&#34; alt=&#34;weijie&#34; /&gt; 
-  Xiwen Hao&lt;br&gt;
-  Fall 2025 &lt;br&gt;
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Liting.jpg&#34; alt=&#34;Liting&#34; /&gt; 
+  Liting Zheng&lt;br&gt;
+  Fall 2026 &lt;br&gt;
     &lt;/td&gt;
     &lt;td width=300&gt;
-Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
+Liting Zheng is a Ph.D. student in Civil Engineering, joining the research group in Fall 2026. With a background in civil and geotechnical engineering, her research focuses on AI/ML applications in geotechnical engineering, experimental testing and numerical simulation of geomaterials, and uncertainty quantification. Outside of research, Liting enjoys photography and spending time with friends.
     &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
@@ -60,7 +73,7 @@ Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple Un
 &lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
   Rakam Tamang&lt;br&gt;
   Fall 2022 - Present &lt;br&gt;
     &lt;/td&gt;
@@ -72,7 +85,7 @@ Rakam Tamang is currently pursuing a part-time PhD focusing on the application o
 &lt;!-- &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
   Ladan Mohtati&lt;br&gt;
   Expected Spring 2025 &lt;br&gt;
     &lt;/td&gt;
@@ -85,7 +98,7 @@ Ladan Mohtati received her BSc and MSc in Structural Engineering from University
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-&lt;img src=&#34;https://yichuanzhu.github.io.git/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
+&lt;img src=&#34;https://www.yichuanzhu.com/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
 Kate Kubiak&lt;br&gt;
 Spring 2022 to present&lt;br&gt; 
     &lt;/td&gt;
@@ -98,7 +111,7 @@ Kate Kubiak (she/her) is a graduate student in the civil engineering master&#39;
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
   Alex Miller&lt;br&gt;
   Spring 2023 to present 
     &lt;/td&gt;
@@ -110,7 +123,7 @@ Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying f
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/Noel.jpeg&#34; alt=&#34;Noel&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/Noel.jpeg&#34; alt=&#34;Noel&#34; /&gt; 
   Noel M Roberts&lt;br&gt;
   Spring 2025 to present 
     &lt;/td&gt;
@@ -122,7 +135,7 @@ My name is Noel Roberts. After transferring from Community College of Philadelph
 &lt;table border=&#34;0&#34;&gt;
  &lt;tr&gt;
     &lt;td width=150&gt;
-  &lt;img src=&#34;https://yichuanzhu.github.io.git/team/David.jpeg&#34; alt=&#34;David&#34; /&gt; 
+  &lt;img src=&#34;https://www.yichuanzhu.com/team/David.jpeg&#34; alt=&#34;David&#34; /&gt; 
   David Kosiborod&lt;br&gt;
   Fall 2023 to present 
     &lt;/td&gt;

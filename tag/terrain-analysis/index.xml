@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terrain Analysis | Computational Geosystems Group</title>
+    <link>https://www.yichuanzhu.com/tag/terrain-analysis/</link>
+      <atom:link href="https://www.yichuanzhu.com/tag/terrain-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terrain Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Terrain Analysis</title>
+      <link>https://www.yichuanzhu.com/tag/terrain-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Computational Geosciences</title>
+      <link>https://www.yichuanzhu.com/project/compute_tools/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.yichuanzhu.com/project/compute_tools/</guid>
+      <description>&lt;p&gt;Remote sensing has become a practical way to characterize geologic and geotechnical conditions across space and through time. CGG develops the observational and computational machinery that makes those data usable: acquiring them, correcting them, extracting meaningful features from them, and releasing the tools so others can do the same.&lt;/p&gt;
+&lt;p&gt;Our work spans several data sources and scales. We use satellite imagery, airborne LiDAR point clouds, and derived elevation models for geomorphologic change detection, terrain characterization, and site response studies, and we develop algorithms for problems that off-the-shelf software handles poorly, such as automated swath analysis of complex topographic features and non-affine georectification that restores the topographic fidelity of legacy geologic maps. A parallel effort integrates in-situ measurement, local site investigation, and remote observation into a single assessment framework for transportation infrastructure, so that sparse borehole information and dense surface observation inform one another rather than being interpreted in isolation.&lt;/p&gt;
+&lt;p&gt;We release this work as documented, open-source software. Methods that stay inside a single research group have limited reach; the goal is robust, tested tools that the wider geotechnical and geoscience communities can apply to their own sites and data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,25 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Landslides | Laboratory for Sensing, Imaging, and Geomechanics Analysis</title><link>https://www.yichuanzhu.com/tag/landslides/</link><atom:link href="https://www.yichuanzhu.com/tag/landslides/index.xml" rel="self" type="application/rss+xml"/><description>Landslides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url><title>Landslides</title><link>https://www.yichuanzhu.com/tag/landslides/</link></image><item><title>Risk Assessment and Management</title><link>https://www.yichuanzhu.com/project/risk/</link><pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/project/risk/</guid><description>&lt;p>Geotechnical design has moved from the Factor of Safety to the Reliability Index, and is now moving toward risk-informed design and management. That shift asks a harder question than &amp;ldquo;will it fail?&amp;rdquo; It asks what is exposed, what the consequences would be, and where limited resources should go first. SIGMA works on that question at the regional scale, where infrastructure owners actually have to make decisions.&lt;/p>
-&lt;p>Our work centers on landslides and slope performance. We build landslide inventories and susceptibility models from aerial photography, geologic and soils mapping, hydrologic records, LiDAR point clouds and derived terrain models, and infrastructure and population data, with particular attention to how model structure and the treatment of non-landslide samples shape the resulting hazard estimates. Ongoing projects extend this to rainfall-triggered slope performance along transportation corridors and to susceptibility mapping in landslide-prone urban regions.&lt;/p>
-&lt;p>Hazard is only one term. We pair these models with exposure and consequence information so that outputs are not just maps of where failure is likely, but assessments of what that failure would cost, expressed in forms that support prioritization, mitigation planning, and long-term resilience for the communities and networks involved.&lt;/p></description></item><item><title>An Assessment of Negative Samples and Model Structures in Landslide Susceptibility Characterization Based on Bayesian Network Models</title><link>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Landslide Risk Assessment in Eastern Kentucky, USA: Developing a Regional Scale, Limited Resource Approach</title><link>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landslides | Laboratory for Sensing, Imaging, and Geomechanics Analysis</title>
+    <link>https://www.yichuanzhu.com/tag/landslides/</link>
+      <atom:link href="https://www.yichuanzhu.com/tag/landslides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Landslides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
+      <title>Landslides</title>
+      <link>https://www.yichuanzhu.com/tag/landslides/</link>
+    </image>
+    
+    <item>
+      <title>Risk Assessment and Management</title>
+      <link>https://www.yichuanzhu.com/project/risk/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.yichuanzhu.com/project/risk/</guid>
+      <description>&lt;p&gt;Geotechnical design has moved from the Factor of Safety to the Reliability Index, and is now moving toward risk-informed design and management. That shift asks a harder question than &amp;ldquo;will it fail?&amp;rdquo; It asks what is exposed, what the consequences would be, and where limited resources should go first. SIGMA works on that question at the regional scale, where infrastructure owners actually have to make decisions.&lt;/p&gt;
+&lt;p&gt;Our work centers on landslides and slope performance. We build landslide inventories and susceptibility models from aerial photography, geologic and soils mapping, hydrologic records, LiDAR point clouds and derived terrain models, and infrastructure and population data, with particular attention to how model structure and the treatment of non-landslide samples shape the resulting hazard estimates. Ongoing projects extend this to rainfall-triggered slope performance along transportation corridors and to susceptibility mapping in landslide-prone urban regions.&lt;/p&gt;
+&lt;p&gt;Hazard is only one term. We pair these models with exposure and consequence information so that outputs are not just maps of where failure is likely, but assessments of what that failure would cost, expressed in forms that support prioritization, mitigation planning, and long-term resilience for the communities and networks involved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Assessment of Negative Samples and Model Structures in Landslide Susceptibility Characterization Based on Bayesian Network Models</title>
+      <link>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.yichuanzhu.com/publication/sahand_2023_negative_samples/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landslide Risk Assessment in Eastern Kentucky, USA: Developing a Regional Scale, Limited Resource Approach</title>
+      <link>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.yichuanzhu.com/publication/crawford_2022_landslide_risk/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

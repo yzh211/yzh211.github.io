@@ -1,157 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teams | Computational Geosystems Group</title>
-    <link>https://www.yichuanzhu.com/team/</link>
-      <atom:link href="https://www.yichuanzhu.com/team/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teams</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
-      <title>Teams</title>
-      <link>https://www.yichuanzhu.com/team/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>https://www.yichuanzhu.com/team/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.yichuanzhu.com/team/students/</guid>
-      <description>&lt;h2 id=&#34;phd-students&#34;&gt;Ph.D. Students&lt;/h2&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiong.JPG&#34; alt=&#34;Xiong&#34; /&gt; 
-  Xiong Bi&lt;br&gt;
-  Fall 2024 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
-Xiong Bi is a Ph.D. student joined Computational Geosystems Group since Fall 2024. His research focuses on machine learning, remote sensing, and natural hazards. Outside academia, Xiong finds joy in playing badminton and indulging in the world of music during his free time.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Xiwen.jpg&#34; alt=&#34;Xiwen&#34; /&gt; 
-  Xiwen Hao&lt;br&gt;
-  Fall 2025 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teams | Laboratory for Sensing, Imaging, and Geomechanics Analysis</title><link>https://www.yichuanzhu.com/team/</link><atom:link href="https://www.yichuanzhu.com/team/index.xml" rel="self" type="application/rss+xml"/><description>Teams</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url><title>Teams</title><link>https://www.yichuanzhu.com/team/</link></image><item><title/><link>https://www.yichuanzhu.com/team/students/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/team/students/</guid><description>&lt;h2 id="phd-students">Ph.D. Students&lt;/h2>
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Xiong.JPG" alt="Xiong" />
+Xiong Bi&lt;br>
+Fall 2024 &lt;br>
+&lt;/td>
+&lt;td width=300>
+Xiong Bi is a Ph.D. student joined SIGMA since Fall 2024. His research focuses on machine learning, remote sensing, and natural hazards. Outside academia, Xiong finds joy in playing badminton and indulging in the world of music during his free time.
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Xiwen.jpg" alt="Xiwen" />
+Xiwen Hao&lt;br>
+Fall 2025 &lt;br>
+&lt;/td>
+&lt;td width=300>
 Xiwen Hao has been admitted to the PhD program in Civil Engineering at Temple University. She holds a Master’s degree in Information Systems from Northeastern University. Her recent work focuses on Uncertainty Quantification, Bayesian Statistics, and Risk Assessment and Management for Transportation Infrastructure. Outside of research, she enjoys traveling.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Minghao.jpg&#34; alt=&#34;Minghao&#34; /&gt; 
-  Minghao Ai&lt;br&gt;
-  Spring 2026 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Minghao.jpg" alt="Minghao" />
+Minghao Ai&lt;br>
+Spring 2026 &lt;br>
+&lt;/td>
+&lt;td width=300>
 Minghao is a Ph.D. student enrolled at Temple University since 2026. With a background in civil engineering, her academic interests include granular mechanics, soil modeling, and probabilistic machine learning. She is currently working on projects related to geological setting, engineering test boring information, and micro-mechanics of geo-materials. In her free time, she enjoys reading and traveling.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Liting.jpg&#34; alt=&#34;Liting&#34; /&gt; 
-  Liting Zheng&lt;br&gt;
-  Fall 2026 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Liting.jpg" alt="Liting" />
+Liting Zheng&lt;br>
+Fall 2026 &lt;br>
+&lt;/td>
+&lt;td width=300>
 Liting Zheng is a Ph.D. student in Civil Engineering, joining the research group in Fall 2026. With a background in civil and geotechnical engineering, her research focuses on AI/ML applications in geotechnical engineering, experimental testing and numerical simulation of geomaterials, and uncertainty quantification. Outside of research, Liting enjoys photography and spending time with friends.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
-&lt;!-- &lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Rakam.JPG&#34; alt=&#34;Rakam&#34; /&gt; 
-  Rakam Tamang&lt;br&gt;
-  Fall 2022 - Present &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;!-- &lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Rakam.JPG" alt="Rakam" />
+Rakam Tamang&lt;br>
+Fall 2022 - Present &lt;br>
+&lt;/td>
+&lt;td width=300>
 Rakam Tamang is currently pursuing a part-time PhD focusing on the application of machine learning in geotechnical engineering since Fall 2022. With over 11 years of experience, he is a registered professional engineer and currently working as a full time Senior Geotechnical Engineer. His research interests include the utilization of probabilistic machine learning and uncertainty quantification within the field of geotechnical engineering. Mr. Tamang has successfully managed numerous design and construction projects, fulfilling roles such as the engineer of record. During his leisure time, Mr. Tamang enjoys activities such as hiking, listening to music, and reading stories. 
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt; --&gt;
-&lt;!-- &lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/ladan mohtati.jpeg&#34; alt=&#34;Ladan&#34; /&gt; 
-  Ladan Mohtati&lt;br&gt;
-  Expected Spring 2025 &lt;br&gt;
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table> -->
+&lt;!-- &lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/ladan mohtati.jpeg" alt="Ladan" />
+Ladan Mohtati&lt;br>
+Expected Spring 2025 &lt;br>
+&lt;/td>
+&lt;td width=300>
 Ladan Mohtati received her BSc and MSc in Structural Engineering from University of Tehran, Iran, with focusses on Elasticity and Wave Propogation. She has ten years of active professional experience as senior structural and building information modeling (BIM) engineer in mega projects. She is a professional dancer in the field of Iranian Classical dance, and enjoys practicing this art form in her free time.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt; --&gt;
-&lt;h2 id=&#34;master-students&#34;&gt;Master Students&lt;/h2&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-&lt;img src=&#34;https://www.yichuanzhu.com/team/Kate.jpg&#34; alt=&#34;Kate&#34;/&gt; 
-Kate Kubiak&lt;br&gt;
-Spring 2022 to present&lt;br&gt; 
-    &lt;/td&gt;
-    &lt;td width=300&gt;
-Kate Kubiak (she/her) is a graduate student in the civil engineering master&#39;s program at Temple. She has been involved in undergraduate research with the geotechnical department since May 2021. She was the co-president of Temple&#39;s ASCE student chapter and a tour guide for the College of Engineering. In her free time, Kate enjoys reading, going on walks with her dog, trying new foods, and spending time with friends.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h2&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Alex.png&#34; alt=&#34;Alex&#34; /&gt; 
-  Alex Miller&lt;br&gt;
-  Spring 2023 to present 
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table> -->
+&lt;h2 id="master-students">Master Students&lt;/h2>
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Kate.jpg" alt="Kate"/>
+Kate Kubiak&lt;br>
+Spring 2022 to present&lt;br>
+&lt;/td>
+&lt;td width=300>
+Kate Kubiak (she/her) is a graduate student in the civil engineering master's program at Temple. She has been involved in undergraduate research with the geotechnical department since May 2021. She was the co-president of Temple's ASCE student chapter and a tour guide for the College of Engineering. In her free time, Kate enjoys reading, going on walks with her dog, trying new foods, and spending time with friends.
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h2 id="undergraduate-students">Undergraduate Students&lt;/h2>
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Alex.png" alt="Alex" />
+Alex Miller&lt;br>
+Spring 2023 to present
+&lt;/td>
+&lt;td width=300>
 Alex graduated from Susquehannock High School in Glen Rock, PA. He is studying for Bachelor of Science in Civil Engineering at Temple now. His hobbies include gaming and exercising. His favorite thing to do is go out in the city with his friends.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/Noel.jpeg&#34; alt=&#34;Noel&#34; /&gt; 
-  Noel M Roberts&lt;br&gt;
-  Spring 2025 to present 
-    &lt;/td&gt;
-    &lt;td width=300&gt;
-My name is Noel Roberts. After transferring from Community College of Philadelphia I am now a second-year undergraduate at Temple University pursuing a bachelor&#39;s in civil engineering. Apart from academics some of my favorite activities are woodworking, skateboarding, and disc golf.
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;table border=&#34;0&#34;&gt;
- &lt;tr&gt;
-    &lt;td width=150&gt;
-  &lt;img src=&#34;https://www.yichuanzhu.com/team/David.jpeg&#34; alt=&#34;David&#34; /&gt; 
-  David Kosiborod&lt;br&gt;
-  Fall 2023 to present 
-    &lt;/td&gt;
-    &lt;td width=300&gt;
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/Noel.jpeg" alt="Noel" />
+Noel M Roberts&lt;br>
+Spring 2025 to present
+&lt;/td>
+&lt;td width=300>
+My name is Noel Roberts. After transferring from Community College of Philadelphia I am now a second-year undergraduate at Temple University pursuing a bachelor's in civil engineering. Apart from academics some of my favorite activities are woodworking, skateboarding, and disc golf.
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;table border="0">
+&lt;tr>
+&lt;td width=150>
+&lt;img src="https://www.yichuanzhu.com/team/David.jpeg" alt="David" />
+David Kosiborod&lt;br>
+Fall 2023 to present
+&lt;/td>
+&lt;td width=300>
 David Kosiborod (ka-see-bar-ode) is pursuing a degree of Bachelor of Science in Civil Engineering after graduating from Bergen Community College with an associate in science. He has artistic experience from teaching art in a small studio back home. In his free time, you can find David drawing, gaming, or playing with his two dogs. 
-    &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Sahand Khabiri&lt;/strong&gt;, Ph.D.(2021-2024). Dissertation: &lt;em&gt;Physics-informed Bayesian Network Classifiers in Landslide Susceptibility Assessment.&lt;/em&gt;&lt;br&gt;
-&lt;strong&gt;Rakam Tamang&lt;/strong&gt;, Ph.D.(2022-2025). Dissertation: &lt;em&gt;Artificial Intelligence Approaches to Jet Grouting Column Diameter Prediction.&lt;/em&gt;&lt;br&gt;
-&lt;strong&gt;Emma Renee Schreiner&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;br&gt;
-&lt;strong&gt;Jacob R Fagan&lt;/strong&gt; (2022-2023). Undergraduate Researcher.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h2 id="alumni">Alumni&lt;/h2>
+&lt;hr>
+&lt;p>&lt;strong>Sahand Khabiri&lt;/strong>, Ph.D.(2021-2024). Dissertation: &lt;em>Physics-informed Bayesian Network Classifiers in Landslide Susceptibility Assessment.&lt;/em>&lt;br>
+&lt;strong>Rakam Tamang&lt;/strong>, Ph.D.(2022-2025). Dissertation: &lt;em>Artificial Intelligence Approaches to Jet Grouting Column Diameter Prediction.&lt;/em>&lt;br>
+&lt;strong>Emma Renee Schreiner&lt;/strong> (2022-2023). Undergraduate Researcher.&lt;br>
+&lt;strong>Jacob R Fagan&lt;/strong> (2022-2023). Undergraduate Researcher.&lt;/p></description></item></channel></rss>

@@ -1,54 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Uncertainty Quantification | Computational Geosystems Group</title>
-    <link>https://www.yichuanzhu.com/tag/uncertainty-quantification/</link>
-      <atom:link href="https://www.yichuanzhu.com/tag/uncertainty-quantification/index.xml" rel="self" type="application/rss+xml" />
-    <description>Uncertainty Quantification</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
-      <title>Uncertainty Quantification</title>
-      <link>https://www.yichuanzhu.com/tag/uncertainty-quantification/</link>
-    </image>
-    
-    <item>
-      <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
-      <link>https://www.yichuanzhu.com/project/uncertainty/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.yichuanzhu.com/project/uncertainty/</guid>
-      <description>&lt;p&gt;A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. CGG develops probabilistic methods that make that distribution explicit and defensible.&lt;/p&gt;
-&lt;p&gt;We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p&gt;
-&lt;p&gt;Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatio-Temporal Statistical Characterization of Boundary Kinematic Phenomena Observed on a Series of Triaxial Sand Specimens</title>
-      <link>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Uncertainty Quantification | Laboratory for Sensing, Imaging, and Geomechanics Analysis</title><link>https://www.yichuanzhu.com/tag/uncertainty-quantification/</link><atom:link href="https://www.yichuanzhu.com/tag/uncertainty-quantification/index.xml" rel="self" type="application/rss+xml"/><description>Uncertainty Quantification</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url><title>Uncertainty Quantification</title><link>https://www.yichuanzhu.com/tag/uncertainty-quantification/</link></image><item><title>Probabilistic Machine Learning and Uncertainty Quantification</title><link>https://www.yichuanzhu.com/project/uncertainty/</link><pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/project/uncertainty/</guid><description>&lt;p>A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. SIGMA develops probabilistic methods that make that distribution explicit and defensible.&lt;/p>
+&lt;p>We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p>
+&lt;p>Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p></description></item><item><title>Spatio-Temporal Statistical Characterization of Boundary Kinematic Phenomena Observed on a Series of Triaxial Sand Specimens</title><link>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</link><pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/publication/zhu_2019_dissertation/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>

@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bayesian Methods | Computational Geosystems Group</title>
-    <link>https://www.yichuanzhu.com/tag/bayesian-methods/</link>
-      <atom:link href="https://www.yichuanzhu.com/tag/bayesian-methods/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bayesian Methods</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url>
-      <title>Bayesian Methods</title>
-      <link>https://www.yichuanzhu.com/tag/bayesian-methods/</link>
-    </image>
-    
-    <item>
-      <title>Probabilistic Machine Learning and Uncertainty Quantification</title>
-      <link>https://www.yichuanzhu.com/project/uncertainty/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.yichuanzhu.com/project/uncertainty/</guid>
-      <description>&lt;p&gt;A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. CGG develops probabilistic methods that make that distribution explicit and defensible.&lt;/p&gt;
-&lt;p&gt;We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p&gt;
-&lt;p&gt;Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bayesian Methods | Laboratory for Sensing, Imaging, and Geomechanics Analysis</title><link>https://www.yichuanzhu.com/tag/bayesian-methods/</link><atom:link href="https://www.yichuanzhu.com/tag/bayesian-methods/index.xml" rel="self" type="application/rss+xml"/><description>Bayesian Methods</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://www.yichuanzhu.com/media/icon_hu9333109b48113834010447dd98fd4d51_26249_512x512_fill_lanczos_center_3.png</url><title>Bayesian Methods</title><link>https://www.yichuanzhu.com/tag/bayesian-methods/</link></image><item><title>Probabilistic Machine Learning and Uncertainty Quantification</title><link>https://www.yichuanzhu.com/project/uncertainty/</link><pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.yichuanzhu.com/project/uncertainty/</guid><description>&lt;p>A prediction without an error bar is difficult to act on. Geotechnical data are sparse, spatially variable, and often collected for some other purpose entirely, so the honest answer to most engineering questions is a distribution rather than a number. SIGMA develops probabilistic methods that make that distribution explicit and defensible.&lt;/p>
+&lt;p>We work from a Bayesian perspective, characterizing the uncertainty carried by each source of evidence and tracing how randomness in model parameters propagates into predictions. This separates aleatory uncertainty, the genuine variability of the ground, from epistemic uncertainty, the part attributable to limited data and imperfect models, because the two call for different responses: one is reduced by collecting more information, the other is not. Recurring themes include Bayesian network classifiers for hazard characterization, the influence of model structure and sampling choices on apparent accuracy, and statistical characterization of experimental observations.&lt;/p>
+&lt;p>Because the framework is method-driven rather than problem-specific, it travels well. It underpins our own hazard and micromechanics work and has supported collaborations on topics ranging from the rheological properties of sandstone to soil erodibility and the prediction of ground improvement performance.&lt;/p></description></item></channel></rss>
